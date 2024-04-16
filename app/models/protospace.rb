@@ -1,0 +1,2 @@
+class Protospace < ApplicationRecord
+end
